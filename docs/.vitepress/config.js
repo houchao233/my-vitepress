@@ -15,7 +15,7 @@ export default defineConfig({
       { text: "生活感悟", link: "/myLife/" },
       { text: "关于", link: "/about/" },
     ],
-    socialLinks: [{ icon: "github", link: "https://github.com/houchao233" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/houchao233/my-vitepress" }],
     footer: {
       message: "Released under the MIT License.",
       copyright: "Copyright © 2022-07-27～present hc",

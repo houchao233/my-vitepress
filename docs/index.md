@@ -16,7 +16,7 @@ hero:
       link: /myNotes/
     - theme: alt
       text: 访问我的GitHub
-      link: https://github.com/houchao233
+      link: https://github.com/houchao233/my-vitepress
     - theme: alt
       text: 关于
       link: /about/
